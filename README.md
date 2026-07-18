@@ -1,6 +1,6 @@
 # 🌍 Global Air Quality Analytics Dashboard
 
-An interactive **Power BI Business Intelligence Dashboard** built to analyze worldwide **Air Quality Index (AQI)** trends across **141 countries**, multiple continents, and several years. This project transforms raw environmental data into actionable insights using interactive visualizations, DAX measures, and analytics-focused reporting.
+An interactive **Power BI Analytical  Dashboard** built to analyze worldwide **Air Quality Index (AQI)** trends across **141 countries**, multiple continents, and several years. This project transforms raw environmental data into actionable insights using interactive visualizations, DAX measures, and analytics-focused reporting.
 
 ---
 
