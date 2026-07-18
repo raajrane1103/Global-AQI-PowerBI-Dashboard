@@ -237,16 +237,12 @@ Potential enhancements include:
 
 ## Raaj Rane
 
-**Aspiring Data Analyst**
+Aspiring Data Analyst
 
-### Skills
+Connect with me:
 
-- SQL
-- Power BI
-- Excel
-- Data Visualization
-- Business Intelligence
-- Basic DAX
+- LinkedIn: (LinkedIn profile)
+- GitHub: (GitHub profile)
 ---
 
 ⭐ If you found this project useful, consider giving this repository a star!
